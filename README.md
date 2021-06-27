@@ -1,5 +1,5 @@
 ### Hi ,[KSP Here](http://prasanthksp1009.github.io/) 👋
-# Yo, Whazzup? I'm [PremKumar a.k.a Apk!](https://github.com/PremApk) <img src="https://github.com/PremApk/PremApk/blob/main/imgs/Hi.gif" width="25px">
+<!--# Yo, Whazzup? I'm [PremKumar a.k.a Apk!](https://github.com/PremApk) <img src="https://github.com/PremApk/PremApk/blob/main/imgs/Hi.gif" width="25px">
 <br><br>
 ![](https://github.com/PremApk/PremApk/blob/main/header_.png)
 <br><br>
@@ -70,4 +70,4 @@
 [insta]:https://www.instagram.com/its_apk/
 [timcap]:http://timcap.herokuapp.com/
 [quora]:https://www.quora.com/profile/PremKumar-68
-[i++]:https://play.google.com/store/apps/details?id=com.awesome.i&hl=en
+[i++]:https://play.google.com/store/apps/details?id=com.awesome.i&hl=en -->
